@@ -1,0 +1,2 @@
+# Lotto
+Gerador de Loteria.
